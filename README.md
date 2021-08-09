@@ -1,5 +1,1 @@
-meu primeiro sistema no GIT 
-
-Alteração readme pra descrever meu sistema 
-
-alteração linha legal 
+meu primeiro sistema no GIT (Alterado e atulizado )
